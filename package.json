@@ -1,9 +1,9 @@
 {
-  "name": "lawrence-ai-portfolio",
+  "name": "ml-stack",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://lawrenceokolo1.github.io/portfolio",
+  "homepage": "https://lawrenceokolo1.github.io/ML_Stack",
   "scripts": {
     "dev": "npx vite",
     "build": "tsc -b && npx vite build",

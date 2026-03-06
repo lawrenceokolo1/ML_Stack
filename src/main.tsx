@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import ProjectsSite from "../portfolio_site";
+import ProjectsSite from "../ml_stack";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
